@@ -5,5 +5,5 @@ console.log(myCalculator);
 
 var myCalculator = new Calculator();
 
-myCalculator.sum(4,9);
+myCalculator.sum(999990,10);
 
