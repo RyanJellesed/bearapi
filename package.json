@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RyanJellesed/bearapi/issues"
   },
-  "homepage": "https://github.com/RyanJellesed/bearapi#readme"
+  "homepage": "https://github.com/RyanJellesed/bearapi#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
