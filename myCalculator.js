@@ -7,11 +7,3 @@ var myCalculator = new Calculator();
 
 myCalculator.sum(4,9);
 
-
-//describe('Calculator', function () {
-//	var calculator = new Calculator();
-
-
-
-
-
